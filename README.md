@@ -30,7 +30,7 @@ DELETE ​/parking-spot​/{id} deleteParkingSpot
 
 - Postman
 
-- PgAdmin (Postgres)
+- PgAdmin (Postgres)/ SQL SERVER
 
 - IDE (IntelliJ, STS, Eclipse, etc)
 
